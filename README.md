@@ -27,6 +27,8 @@ Este é um projeto para organizar e gerenciar um amigo secreto. O objetivo é fa
     npm start
 
 ## Imagem do projeto
-![Imagem do projeto](assets/prints/1.png)
-![Imagem do projeto](assets/prints/2.png)
-![Imagem do projeto](assets/prints/3.png)
+![Imagem do projeto]<img src="assets/prints/1.png" alt="Imagem do projeto" width="500"/>
+## Adicionando Amigo
+![Imagem do projeto]<img src="assets/prints/2.png" alt="Imagem do projeto" width="500"/>
+## Mostrando Resultado
+![Imagem do projeto]<img src="assets/prints/3.png" alt="Imagem do projeto" width="500"/>
