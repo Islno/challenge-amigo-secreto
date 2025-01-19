@@ -6,7 +6,6 @@ Este é um projeto para organizar e gerenciar um amigo secreto. O objetivo é fa
 
 - Cadastro de participantes
 - Sorteio automático dos amigos secretos
-- Envio de notificações por e-mail
 - Visualização dos resultados
 
 ## Como usar
