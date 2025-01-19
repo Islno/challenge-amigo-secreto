@@ -13,7 +13,7 @@ Este é um projeto para organizar e gerenciar um amigo secreto. O objetivo é fa
 
 1. Clone o repositório:
     
-    git clone https://github.com/seu-usuario/amigo-secreto.git
+    git clone https://github.com/islno/amigo-secreto.git
     
 2. Navegue até o diretório do projeto:
     
